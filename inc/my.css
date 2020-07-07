@@ -1,0 +1,49 @@
+*{
+	font-family:Lucida Console;
+	color: #004d66;
+}
+body{
+}
+
+
+h3 {
+
+}
+p{
+	padding:5px;
+}
+p:hover{
+}
+#result{
+	background-color: #eee;
+	min-width: 200px;
+	min-height: 30px;
+	padding:10px;
+	font-size: 0.8em;
+}
+
+
+div{
+	background-color:#eee;
+}
+
+div:hover{
+
+}
+
+
+button{
+	width: 150px;
+	height: 40px;
+	font-size: 16px;
+	background-color: #eee;
+}
+
+label{
+	color: #B43;
+	font-weight: bold;
+}
+textarea{
+	width: 300px;
+	min-height:200px;
+}

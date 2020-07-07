@@ -1,0 +1,81 @@
+*{
+	font-family:Lucida Console;
+	color: #004d66;
+}
+body{
+}
+
+
+h3 {
+
+}
+p{
+	padding:5px;
+}
+p:hover{
+}
+#result{
+	background-color: #eee;
+	min-width: 200px;
+	min-height: 30px;
+	padding:10px;
+	font-size: 0.8em;
+}
+
+
+div{
+	background-color:#fff;
+}
+
+div:hover{
+
+}
+
+ul{
+	list-style: none;
+}
+
+
+button{
+	width: 150px;
+	height: 40px;
+	font-size: 16px;
+	background-color: #eee;
+}
+
+label{
+	color: #B43;
+	font-weight: bold;
+}
+textarea{
+	width: 300px;
+	min-height:200px;
+}
+
+#menu{
+	weidth:200px;
+	float: left;
+}
+#content{
+	width: 1000px;
+	float: right;
+}
+
+table{
+	font-size: 14px;
+	width: 100%;
+}
+th{
+	background-color: #999;
+	color: #fff;
+}
+tr{
+	background-color: #eee;	
+}
+tr:hover{
+	background: #f3bd48; /* Цвет фона при наведении */
+	color: #fff; /* Цвет текста при наведении */
+}
+td{
+
+}
